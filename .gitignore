@@ -1,1 +1,36 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pkl
+*.egg-info/
+*.egg
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints/
 **/.ipynb_checkpoints/
+
+# --- Environments ---
+.venv/
+venv/
+env/
+
+# --- Logs and cache ---
+*.log
+.mypy_cache/
+.pyright/
+.cache/
+coverage.*
+htmlcov/
+
+# --- VS Code ---
+.vscode/
+
+# --- System files ---
+.DS_Store
+Thumbs.db
+
+# --- Others you might use ---
+*.swp
+*.bak
+
